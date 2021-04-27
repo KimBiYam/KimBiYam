@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KimBiYam&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KimBiYam&fontSize=60)
 
 
 ![ChangHyunKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimBiYam&count_private=true&show_icons=true)
