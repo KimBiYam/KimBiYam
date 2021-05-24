@@ -5,7 +5,7 @@
 
   <h3>👋  Hi I'm Chang Hyun Kim</h3>
 
-  <h3>📕 Stack 📘</h3>
+  <h2>📕 Stack 📘</h2>
   <br>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   
-  <h3>Social</h3>
+  <h2>🙋 Social</h2>
   <a href="https://velog.io/@kimbiyam">
     <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimbiyam"/>
   </a>
