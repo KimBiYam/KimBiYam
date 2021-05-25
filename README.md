@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/hot9998"/>
   </a>
   <a href="https://velog.io/@kimbiyam">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimbiyam"/>
+    <img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimbiyam"/>
   </a>
 
   <br>
