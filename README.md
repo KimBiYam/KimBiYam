@@ -25,7 +25,7 @@
   <br>
   <br>
   
-  <h3>🙋 Social</h3>
+  <h3>🙋 Blog</h3>
   <a href="https://blog.naver.com/hot9998">
     <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/hot9998"/>
   </a>
