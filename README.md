@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KimBiYam&fontSize=48)
   
 
-  <h3>👋  Hi I'm Chang Hyun Kim</h3>
+  <h3>🙋  Hi I'm Chang Hyun Kim</h3>
   
   <br>
   <br>
@@ -25,7 +25,7 @@
   <br>
   <br>
   
-  <h3>🙋 Blog</h3>
+  <h3>📝 Blog</h3>
   <a href="https://blog.naver.com/hot9998">
     <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/hot9998"/>
   </a>
