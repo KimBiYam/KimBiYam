@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   
   <br>
   <br>
