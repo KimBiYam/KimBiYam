@@ -6,7 +6,7 @@
   <h3>🙋  Hi I'm Chang Hyun Kim</h3>
   
   <h3>📄 My Profile</h3>
-  <a href="https://closed-lake-4dd.notion.site/3831364898844426ab7643741dffe461">
+  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-3831364898844426ab7643741dffe461">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://closed-lake-4dd.notion.site/3831364898844426ab7643741dffe461"/>
   </a>
   
