@@ -29,6 +29,9 @@
   <a href="https://velog.io/@kimbiyam">
     <img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimbiyam"/>
   </a>
+  <a href="https://kimbiyam.me">
+    <img src="https://img.shields.io/badge/KimBiYam.log-E2E8F0?style=flat-square&link=https://kimbiyam.me"/>
+  </a>
 
   <br>
   <br>
