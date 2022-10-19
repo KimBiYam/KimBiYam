@@ -10,8 +10,8 @@
 
   ### My Profile
 
-  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-403adccc944746adb66a8df8742fd41d">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kimbiyam.notion.site/Chang-Hyun-Kim-403adccc944746adb66a8df8742fd41d"/>
+  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-1b09ea16ce074e858c3c8ae9e999c04f">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kimbiyam.notion.site/Chang-Hyun-Kim-1b09ea16ce074e858c3c8ae9e999c04f"/>
   </a>
 
 </div>
