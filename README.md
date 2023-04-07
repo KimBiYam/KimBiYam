@@ -8,10 +8,10 @@
 
   ### 🙋 Hi I'm Chang Hyun Kim
 
-  ### My Profile
+  ### Resume
 
-  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-1b09ea16ce074e858c3c8ae9e999c04f">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kimbiyam.notion.site/Chang-Hyun-Kim-1b09ea16ce074e858c3c8ae9e999c04f"/>
+  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-fc59c09adfa34304b00a587a35f9e38c">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kimbiyam.notion.site/Chang-Hyun-Kim-fc59c09adfa34304b00a587a35f9e38c"/>
   </a>
 
 </div>
