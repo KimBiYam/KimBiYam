@@ -8,12 +8,6 @@
 
   ### 🙋 Hi I'm Chang Hyun Kim
 
-  ### Resume
-
-  <a href="https://kimbiyam.notion.site/Chang-Hyun-Kim-fc59c09adfa34304b00a587a35f9e38c">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kimbiyam.notion.site/Chang-Hyun-Kim-fc59c09adfa34304b00a587a35f9e38c"/>
-  </a>
-
 </div>
 
 
